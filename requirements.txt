@@ -10,3 +10,4 @@ scikit-learn==0.21.*
 networkx>=2.2
 forceatlas2
 nilearn==0.5.2
+nbval
